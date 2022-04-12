@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Sualp Ozel",
+	"description":	{
+		"":	"Create an Additive Setup with 2 Components"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
